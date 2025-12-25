@@ -45,7 +45,7 @@ An innovative mobile application in the field of religious tourism and Umrah org
 | Platform    | Status                         | Link                                                                                                                                                                                                        |
 |-------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Google Play | **Live** 🚀 | <a href="https://play.google.com/store/apps/details?id=com.bandtech.noorAlmasa&pcampaignid=web_share"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
-| App Store   | _Coming-soon_ ⌛ | <a href="#"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a>    |
+| App Store   | **Live** 🚀 | <a href="https://apps.apple.com/us/app/%D9%86%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D8%A9/id6754540720"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a>    |
 
 ---
 
